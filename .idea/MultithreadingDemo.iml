@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/volatile非原子性/WebRoot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/volatile非原子性/WebRoot" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/优先级随机性/WebRoot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/优先级随机性/WebRoot" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file:///production/MultithreadingDemo" />
+    <output-test url="file:///test/MultithreadingDemo" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/Exception_threadCreate">
+      <sourceFolder url="file://$MODULE_DIR$/Exception_threadCreate/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/Exception_threadExceptionMove">
+      <sourceFolder url="file://$MODULE_DIR$/Exception_threadExceptionMove/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/InheritableThreadLocal1">
+      <sourceFolder url="file://$MODULE_DIR$/InheritableThreadLocal1/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/InheritableThreadLocal2">
+      <sourceFolder url="file://$MODULE_DIR$/InheritableThreadLocal2/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ReadWriteLockBegin1">
+      <sourceFolder url="file://$MODULE_DIR$/ReadWriteLockBegin1/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ReadWriteLockBegin2">
+      <sourceFolder url="file://$MODULE_DIR$/ReadWriteLockBegin2/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ReadWriteLockBegin3">
+      <sourceFolder url="file://$MODULE_DIR$/ReadWriteLockBegin3/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ReadWriteLockBegin4">
+      <sourceFolder url="file://$MODULE_DIR$/ReadWriteLockBegin4/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ReentrantFair_noFair_test">
+      <sourceFolder url="file://$MODULE_DIR$/ReentrantFair_noFair_test/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ReentrantLockTest">
+      <sourceFolder url="file://$MODULE_DIR$/ReentrantLockTest/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ThreadLocal11">
+      <sourceFolder url="file://$MODULE_DIR$/ThreadLocal11/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ThreadLocal22">
+      <sourceFolder url="file://$MODULE_DIR$/ThreadLocal22/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ThreadLocal33">
+      <sourceFolder url="file://$MODULE_DIR$/ThreadLocal33/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/ThreadLocalTest">
+      <sourceFolder url="file://$MODULE_DIR$/ThreadLocalTest/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/deadLockTest">
+      <sourceFolder url="file://$MODULE_DIR$/deadLockTest/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/interrupt停止线程">
+      <sourceFolder url="file://$MODULE_DIR$/interrupt停止线程/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/join_sleep_1">
+      <sourceFolder url="file://$MODULE_DIR$/join_sleep_1/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/join_sleep_2">
+      <sourceFolder url="file://$MODULE_DIR$/join_sleep_2/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/notifyAll">
+      <sourceFolder url="file://$MODULE_DIR$/notifyAll/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/notifyHoldLock">
+      <sourceFolder url="file://$MODULE_DIR$/notifyHoldLock/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/notifyOne">
+      <sourceFolder url="file://$MODULE_DIR$/notifyOne/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/p_r_test">
+      <sourceFolder url="file://$MODULE_DIR$/p_r_test/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/pipeInputOutput">
+      <sourceFolder url="file://$MODULE_DIR$/pipeInputOutput/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/pipeReaderWriter">
+      <sourceFolder url="file://$MODULE_DIR$/pipeReaderWriter/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/stop解锁">
+      <sourceFolder url="file://$MODULE_DIR$/stop解锁/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/synchronizedMethodLockObject">
+      <sourceFolder url="file://$MODULE_DIR$/synchronizedMethodLockObject/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/synchronizedMethodLockObject2">
+      <sourceFolder url="file://$MODULE_DIR$/synchronizedMethodLockObject2/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/synchronized脏读">
+      <sourceFolder url="file://$MODULE_DIR$/synchronized脏读/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/synchronized锁重入_1">
+      <sourceFolder url="file://$MODULE_DIR$/synchronized锁重入_1/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/synchronized锁重入_2">
+      <sourceFolder url="file://$MODULE_DIR$/synchronized锁重入_2/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/volatile">
+      <sourceFolder url="file://$MODULE_DIR$/volatile/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/volatile非原子性">
+      <sourceFolder url="file://$MODULE_DIR$/volatile非原子性/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/优先级继承性">
+      <sourceFolder url="file://$MODULE_DIR$/优先级继承性/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/优先级随机性">
+      <sourceFolder url="file://$MODULE_DIR$/优先级随机性/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/守护线程">
+      <sourceFolder url="file://$MODULE_DIR$/守护线程/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/工具类">
+      <sourceFolder url="file://$MODULE_DIR$/工具类" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/异常自动释放锁">
+      <sourceFolder url="file://$MODULE_DIR$/异常自动释放锁/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

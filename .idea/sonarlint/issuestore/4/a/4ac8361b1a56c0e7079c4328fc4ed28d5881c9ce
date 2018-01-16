@@ -1,0 +1,19 @@
+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ˆáÂõÿÿÿÿÿ8…Êÿ§,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8…Êÿ§,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8…Êÿ§,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…Êÿ§,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8…Êÿ§,
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(öÍËè8…Êÿ§,
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(®İÂÅ8…Êÿ§,
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ƒ×Ï‚úÿÿÿÿ8…Êÿ§,
+hsquid:S1132"GMove the "a" string literal on the left side of this string comparison.(°¿œïşÿÿÿÿ8…Êÿ§,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…Êÿ§,
+bsquid:S1132"GMove the "b" string literal on the left side of this string comparison.(ûŒ88…Êÿ§,
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(®İÂÅ8…Êÿ§,
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(öÍËè8…Êÿ§,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8…Êÿ§,

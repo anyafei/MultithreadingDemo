@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exception_threadCreate/Exception_threadCreate.iml" filepath="$PROJECT_DIR$/Exception_threadCreate/Exception_threadCreate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception_threadExceptionMove/Exception_threadExceptionMove.iml" filepath="$PROJECT_DIR$/Exception_threadExceptionMove/Exception_threadExceptionMove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritableThreadLocal1/InheritableThreadLocal11.iml" filepath="$PROJECT_DIR$/InheritableThreadLocal1/InheritableThreadLocal11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritableThreadLocal2/InheritableThreadLocal21.iml" filepath="$PROJECT_DIR$/InheritableThreadLocal2/InheritableThreadLocal21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultithreadingDemo.iml" filepath="$PROJECT_DIR$/MultithreadingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadWriteLockBegin1/ReadWriteLockBegin11.iml" filepath="$PROJECT_DIR$/ReadWriteLockBegin1/ReadWriteLockBegin11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadWriteLockBegin2/ReadWriteLockBegin21.iml" filepath="$PROJECT_DIR$/ReadWriteLockBegin2/ReadWriteLockBegin21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadWriteLockBegin3/ReadWriteLockBegin31.iml" filepath="$PROJECT_DIR$/ReadWriteLockBegin3/ReadWriteLockBegin31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadWriteLockBegin4/ReadWriteLockBegin41.iml" filepath="$PROJECT_DIR$/ReadWriteLockBegin4/ReadWriteLockBegin41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReentrantFair_noFair_test/ReentrantFair_noFair_test.iml" filepath="$PROJECT_DIR$/ReentrantFair_noFair_test/ReentrantFair_noFair_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReentrantLockTest/ReentrantLockTest1.iml" filepath="$PROJECT_DIR$/ReentrantLockTest/ReentrantLockTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLocal11/ThreadLocal111.iml" filepath="$PROJECT_DIR$/ThreadLocal11/ThreadLocal111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLocal22/ThreadLocal221.iml" filepath="$PROJECT_DIR$/ThreadLocal22/ThreadLocal221.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLocal33/ThreadLocal331.iml" filepath="$PROJECT_DIR$/ThreadLocal33/ThreadLocal331.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLocalTest/ThreadLocalTest1.iml" filepath="$PROJECT_DIR$/ThreadLocalTest/ThreadLocalTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deadLockTest/deadLockTest1.iml" filepath="$PROJECT_DIR$/deadLockTest/deadLockTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interrupt停止线程/interrupt停止线程.iml" filepath="$PROJECT_DIR$/interrupt停止线程/interrupt停止线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/join_sleep_1/join_sleep_11.iml" filepath="$PROJECT_DIR$/join_sleep_1/join_sleep_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/join_sleep_2/join_sleep_21.iml" filepath="$PROJECT_DIR$/join_sleep_2/join_sleep_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifyAll/notifyAll1.iml" filepath="$PROJECT_DIR$/notifyAll/notifyAll1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifyHoldLock/notifyHoldLock1.iml" filepath="$PROJECT_DIR$/notifyHoldLock/notifyHoldLock1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifyOne/notifyOne1.iml" filepath="$PROJECT_DIR$/notifyOne/notifyOne1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p_r_test/p_r_test.iml" filepath="$PROJECT_DIR$/p_r_test/p_r_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pipeInputOutput/pipeInputOutput1.iml" filepath="$PROJECT_DIR$/pipeInputOutput/pipeInputOutput1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pipeReaderWriter/pipeReaderWriter1.iml" filepath="$PROJECT_DIR$/pipeReaderWriter/pipeReaderWriter1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stop解锁/stop解锁.iml" filepath="$PROJECT_DIR$/stop解锁/stop解锁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronizedMethodLockObject/synchronizedMethodLockObject1.iml" filepath="$PROJECT_DIR$/synchronizedMethodLockObject/synchronizedMethodLockObject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronizedMethodLockObject2/synchronizedMethodLockObject21.iml" filepath="$PROJECT_DIR$/synchronizedMethodLockObject2/synchronizedMethodLockObject21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized脏读/synchronized脏读.iml" filepath="$PROJECT_DIR$/synchronized脏读/synchronized脏读.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized锁重入_1/synchronized锁重入_1.iml" filepath="$PROJECT_DIR$/synchronized锁重入_1/synchronized锁重入_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized锁重入_2/synchronized锁重入_2.iml" filepath="$PROJECT_DIR$/synchronized锁重入_2/synchronized锁重入_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volatile非原子性/volatile非原子性.iml" filepath="$PROJECT_DIR$/volatile非原子性/volatile非原子性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/优先级继承性/优先级继承性.iml" filepath="$PROJECT_DIR$/优先级继承性/优先级继承性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/优先级随机性/优先级随机性.iml" filepath="$PROJECT_DIR$/优先级随机性/优先级随机性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/守护线程/守护线程.iml" filepath="$PROJECT_DIR$/守护线程/守护线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/异常自动释放锁/异常自动释放锁.iml" filepath="$PROJECT_DIR$/异常自动释放锁/异常自动释放锁.iml" />
+    </modules>
+  </component>
+</project>
